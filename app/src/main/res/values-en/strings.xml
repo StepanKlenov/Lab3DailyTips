@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Tips</string>
+    <string name="tip_image">Tip image</string>
+    <string name="title_main">Daily Tips</string>
+</resources>
