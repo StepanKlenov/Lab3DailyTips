@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Lab3DailyTips</string>
+    <string name="app_name">Советы на каждый день</string>
+
+    <!-- Добавьте эту строку -->
+    <string name="tip_image">Изображение совета</string>
+
+    <!-- Можно добавить сразу для локализации -->
+    <string name="title_main">Советы на каждый день</string>
 </resources>
